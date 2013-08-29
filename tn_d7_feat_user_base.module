@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Transition Network: User Base feature.
+ */
+
+include_once 'tn_d7_feat_user_base.features.inc';
